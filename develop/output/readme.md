@@ -1,6 +1,6 @@
 # Title
 
-![license](https://img.shields.io/badge/GPL-License-red)
+![license](https://img.shields.io/badge/MIT-License-green)
 
 
 
@@ -21,7 +21,7 @@ This project is showcasing the skills that I have learnt todate; HTML, CSS, Bulm
 
  
 ## Installation
-The project can be implanted on any internet page by clicking on the following link to my project page susanne85.github.io/susannesPortfolio/
+The project can be implanted on any internet page by clicking on the following link to my project page https://susanne85.github.io/susannesPortfolio/
 
 ## Usage
 The project can be utilised on any device which has access to the internet.
@@ -35,7 +35,7 @@ All links are functioning correctly, images are displayed, when a link is clicke
 ## Questions
 
 
-Please view my profile on GITHUB, the link is https://github.com/Susanne85/
+My profile can be viewed on GITHUB, the link is https://github.com/Susanne85/
 
 If you have any queries please contact me via my email address which is xkqk2010@gmail.com
 
@@ -43,7 +43,7 @@ I am always ready to answer any questions that you may have and can be contacted
 
 ## Liscense
 
-GPL
+MIT
 
 A permissive license that comes in two variants, the BSD 2-Clause and BSD 3-Clause.
 
