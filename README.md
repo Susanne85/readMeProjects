@@ -2,9 +2,9 @@
 
 This application demonstrates my skill in generating a README from user input from the node command line.
 
-**Link**
+**Link** 
 
-The link to the deployed application is : https://susanne85.github.io/susannesPortfolio/
+The link to the deployed application is : https://susanne85.github.io/readMeProjects/
 
 **Technologies Utilised**
 
@@ -17,7 +17,7 @@ The link to the deployed application is : https://susanne85.github.io/susannesPo
 
 The attached video shows the inputs to the application.
                                                 
-![Black and white picture of oringal web page](./develop/assets/images/susannesReadmeVideo.gif)
+![Black and white picture of oringal web page](./develop/assets/images/susannesReadmeVideo1.gif)
 
 This video shows the resultant README when no installation, usage, contributions, tests or questions details are entered.
 
