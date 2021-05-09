@@ -34,7 +34,7 @@ function generateMarkdown(allAnswers) {
   renderLicenseBadge(liscense, lisceneLinksArray, liscenceInfoArray);
 
   for (i = 0; i < lisceneLinksArray.length; i++) {
-    liscenseLinkText  = liscenseLinkText  + lisceneLinksArray[i] + '\n\n';
+    liscenseLinkText = liscenseLinkText + lisceneLinksArray[i] + '\n\n';
     liscenseInfo = liscenseInfo + liscenceInfoArray[i] + '\n\n';
   }
 
@@ -55,12 +55,12 @@ function generateMarkdown(allAnswers) {
     allAnswers.conditionalResponse.questions = '';
   }
 
-  let gitHubID = '';
+  let gitHubID = 'No GITHUB details available';
   if (allAnswers.originalResponse.gitHubName !== '') {
     gitHubID = `My profile can be viewed on GITHUB, the link is https://github.com/${allAnswers.originalResponse.gitHubName}/`
   }
 
-  let usersEmail = '';
+  let usersEmail = 'No Email details available';
   if (allAnswers.originalResponse.usersEmail !== '') {
     usersEmail = `If you have any queries please contact me via my email address which is ${allAnswers.originalResponse.usersEmail}`
   }
