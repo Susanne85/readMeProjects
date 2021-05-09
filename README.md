@@ -24,7 +24,7 @@ This video shows the resultant README when no installation, usage, contributions
                                                                  
 ![README file with minimal data](https://drive.google.com/file/d/1g-1PIe9mTvqCn-NL75bLBO0MNlMtLQh0/view?usp=sharing)
 
-<a href="https://drive.google.com/uc?export=view&id=<1g-1PIe9mTvqCn-NL75bLBO0MNlMtLQh0>"><img src="https://drive.google.com/uc?export=view&id=<1g-1PIe9mTvqCn-NL75bLBO0MNlMtLQh0>" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/uc?export=view&id=1g-1PIe9mTvqCn-NL75bLBO0MNlMtLQh0"><img src="https://drive.google.com/uc?export=view&id=1g-1PIe9mTvqCn-NL75bLBO0MNlMtLQh0" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 **Liscense**
 
