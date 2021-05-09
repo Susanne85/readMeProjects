@@ -4,15 +4,23 @@ const writeFile = require('fs');
 const path = require('path');
 const generateMarkdown = require('./utils/generateMarkdown');
 
-const checkNullInput = (value) => {
+const checkNullInputTitle = (value) => {
     if (value != '') {
         return true;
     } else {
-        console.log('Please enter some text this item');
+        console.log(`\nPlease enter some text for the Title of the repository`);
         return false;
     }
 }
 
+const checkNullInputDescription = (value) => {
+    if (value != '') {
+        return true;
+    } else {
+        console.log(`\nPlease enter some text for the Description of the repository`);
+        return false;
+    }
+}
 
 const conditionalQuestions = [
     {
@@ -49,13 +57,13 @@ inquirer
             type: 'input',
             message: 'Enter a Title for your Repository',
             name: 'title',
-            validate: checkNullInput,
+            validate: checkNullInputTitle,
         },
         {
             type: 'input',
-            message: 'The description for your repository should describe the purpose of the repository.\nEnter a Description for Repository',
+            message: 'The description for your repository should describe the purpose of the repository.  Enter a Description for your Repository',
             name: 'description',
-            validate: checkNullInput,
+            validate: checkNullInputDescription,
         },
         {
             type: 'input',
