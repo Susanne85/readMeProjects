@@ -15,14 +15,12 @@ The link to the GITHUB page is : https://github.com/Susanne85/readMeProjects
 
 **Application Display**
 
-The attached video shows the inputs to the application.  It is a google drive link.
-                                                
-<a href="https://drive.google.com/uc?export=view&id=1_ij3_5z3lcrz_IYuHmr3ML_qyIPJnqlP"><img src="https://drive.google.com/uc?export=view&id=1_ij3_5z3lcrz_IYuHmr3ML_qyIPJnqlP" style="width: 650px; max-width: 100%; height: auto" title="README video with minimal inputs" />
+These videos are google drive links.  The first video is a demonstration of the README generation when data is entered for all questions, the second video is when minimal data is entered.                                                
 
-This video shows the resultant README when no installation, usage, contributions, tests or questions details are entered.  It is a google drive link.
-                                                                 
-<a href="https://drive.google.com/uc?export=view&id=1g-1PIe9mTvqCn-NL75bLBO0MNlMtLQh0"><img src="https://drive.google.com/uc?export=view&id=1g-1PIe9mTvqCn-NL75bLBO0MNlMtLQh0" style="width: 650px; max-width: 100%; height: auto" title="README video with minimal inputs" />
+<a href="https://drive.google.com/uc?export=view&id=1_ij3_5z3lcrz_IYuHmr3ML_qyIPJnqlP"><img src="https://drive.google.com/uc?export=view&id=1_ij3_5z3lcrz_IYuHmr3ML_qyIPJnqlP" title="README video"/>
 
+<a href="https://drive.google.com/uc?export=view&id=1g-1PIe9mTvqCn-NL75bLBO0MNlMtLQh0"><img src="https://drive.google.com/uc?export=view&id=1g-1PIe9mTvqCn-NL75bLBO0MNlMtLQh0" style="width: 650px; max-width: 100%; height: auto" title="README video minimal data"/>
+[]()
 
 **Liscense**
 
