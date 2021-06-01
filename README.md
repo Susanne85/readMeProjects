@@ -12,6 +12,12 @@ The link to the GITHUB page is : https://github.com/Susanne85/readMeProjects
 
 . Inquirer NPM package.
 
+**Execution of Application**
+
+Executing the application
+1.  Clone the repository
+2.  Run npm i in the directory that the repository has been cloned into.
+3.  Change into the folder 'Develop' and enter the command node index.js
 
 **Application Display**
 
