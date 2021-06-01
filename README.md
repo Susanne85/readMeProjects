@@ -14,7 +14,6 @@ The link to the GITHUB page is : https://github.com/Susanne85/readMeProjects
 
 **Execution of Application**
 
-Executing the application
 1.  Clone the repository
 2.  Change into the 'Develop' folder under the directory that the application was cloned into and Run npm i to install node modules.
 3.  In the folder 'Develop', on the command line enter node index.js to execute the application.
